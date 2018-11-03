@@ -1,2 +1,2 @@
-# vuejs-f7-odoo
-Odoo Mobile app framework based on vuejs + f7 + odoo
+# MOVA - Mobile Odoo VueJS App Framework
+Odoo Mobile app framework based on vuejs + Webpack + VueX +VuX
